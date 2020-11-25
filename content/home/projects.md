@@ -76,5 +76,5 @@ subtitle = ""
 +++
 
 
-  <br><a href= "https://github.com/jakerbrown/files/raw/master/papers/interethnic_contact.pdf"> Cross-ethnic Exposure Predicts Political Behavior Seven Decades Later: Evidence from Linked Administrative Data.</a> (with Ryan Enos, James Feigenbaum, and Shom Mazumder). R&R, <i>Science Advances</i>. (<a href = "https://github.com/jakerbrown/files/raw/master/papers/interethnic_contact_appendix.pdf">Supporting Information</a>).<br>
+<a href= "https://github.com/jakerbrown/files/raw/master/papers/interethnic_contact.pdf"> Cross-ethnic Exposure Predicts Political Behavior Seven Decades Later: Evidence from Linked Administrative Data.</a> (with Ryan Enos, James Feigenbaum, and Shom Mazumder). R&R, <i>Science Advances</i>. (<a href = "https://github.com/jakerbrown/files/raw/master/papers/interethnic_contact_appendix.pdf">Supporting Information</a>).<br>
 <br><a href= "https://github.com/jakerbrown/files/raw/master/papers/obama_effect.pdf"> The Obama Effect? Race, First-time Voting, and Future Participation.</a> (<a href = "https://github.com/jakerbrown/files/raw/master/papers/obama_effect_supporting_information.pdf">Supporting Information</a>).
